@@ -1,5 +1,0 @@
-pandas
-spotipy
-requests
-scikit-learn
-bokeh
